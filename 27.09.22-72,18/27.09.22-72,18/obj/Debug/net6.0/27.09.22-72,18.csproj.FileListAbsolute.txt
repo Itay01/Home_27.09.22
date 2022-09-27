@@ -1,0 +1,15 @@
+C:\Users\itaym\OneDrive\Desktop\cyber\27.09.22-72,18\27.09.22-72,18\obj\Debug\net6.0\27.09.22-72,18.csproj.AssemblyReference.cache
+C:\Users\itaym\OneDrive\Desktop\cyber\27.09.22-72,18\27.09.22-72,18\obj\Debug\net6.0\27.09.22-72,18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itaym\OneDrive\Desktop\cyber\27.09.22-72,18\27.09.22-72,18\obj\Debug\net6.0\27.09.22-72,18.AssemblyInfoInputs.cache
+C:\Users\itaym\OneDrive\Desktop\cyber\27.09.22-72,18\27.09.22-72,18\obj\Debug\net6.0\27.09.22-72,18.AssemblyInfo.cs
+C:\Users\itaym\OneDrive\Desktop\cyber\27.09.22-72,18\27.09.22-72,18\obj\Debug\net6.0\27.09.22-72,18.csproj.CoreCompileInputs.cache
+C:\Users\itaym\OneDrive\Desktop\cyber\27.09.22-72,18\27.09.22-72,18\bin\Debug\net6.0\27.09.22-72,18.exe
+C:\Users\itaym\OneDrive\Desktop\cyber\27.09.22-72,18\27.09.22-72,18\bin\Debug\net6.0\27.09.22-72,18.deps.json
+C:\Users\itaym\OneDrive\Desktop\cyber\27.09.22-72,18\27.09.22-72,18\bin\Debug\net6.0\27.09.22-72,18.runtimeconfig.json
+C:\Users\itaym\OneDrive\Desktop\cyber\27.09.22-72,18\27.09.22-72,18\bin\Debug\net6.0\27.09.22-72,18.dll
+C:\Users\itaym\OneDrive\Desktop\cyber\27.09.22-72,18\27.09.22-72,18\bin\Debug\net6.0\27.09.22-72,18.pdb
+C:\Users\itaym\OneDrive\Desktop\cyber\27.09.22-72,18\27.09.22-72,18\obj\Debug\net6.0\27.09.22-72,18.dll
+C:\Users\itaym\OneDrive\Desktop\cyber\27.09.22-72,18\27.09.22-72,18\obj\Debug\net6.0\refint\27.09.22-72,18.dll
+C:\Users\itaym\OneDrive\Desktop\cyber\27.09.22-72,18\27.09.22-72,18\obj\Debug\net6.0\27.09.22-72,18.pdb
+C:\Users\itaym\OneDrive\Desktop\cyber\27.09.22-72,18\27.09.22-72,18\obj\Debug\net6.0\27.09.22-72,18.genruntimeconfig.cache
+C:\Users\itaym\OneDrive\Desktop\cyber\27.09.22-72,18\27.09.22-72,18\obj\Debug\net6.0\ref\27.09.22-72,18.dll
